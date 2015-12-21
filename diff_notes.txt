@@ -1,0 +1,13 @@
+12-20-15 Steve M. Potter
+
+I am going thru the Git class to learn about version control. The first exercise I did was to download two versions of an asteroids game, and try to find a typo in one. I used the diff command:
+
+$ diff -u oldgame.js  newgame.js
+
+and it output in the terminal window lines that had been changed as being added + or removed -
+
+The typo was .spacr instead of .space in the name of a variable for which key to use to fire the engines.
+
+I found it fairly easily. I noted in an earlier part of the class where they had the two versions i
+side by side that I can easly merge the two images and find differenes in code that way.
+ I wonder if any other coders do this regularly?

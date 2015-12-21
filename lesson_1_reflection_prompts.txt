@@ -1,0 +1,53 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	It found the line(s) of code to focus my attention on. I still had to scrutinize someone else's 
+code and decide if the change was intentional or not. Other lines had intentional changes.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+
+I might remind myself of useful code snippets that I had forgotten about, or did not understand when I 
+first used or found them. 
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+I would much rather have them auto-saved. I may forget to save and lost important things.
+But to manually save make sure that the version saved is a good one. Autosaving may save lots of crappy 
+intermediate versions that have lots of bugs.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Some projects use lots of interconnected files. Others don't.
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows a temporal list of all the commits in a repository. Find the two of relevance, copy their IDs and use git diff IDa IDb to compare the two.
+I set the git config to make lines colored if they were changed.
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+I often need to try out a new programming idea or perhaps am just using a method temporarily, such as during
+a demo, where user interaction will be different. So instead of making a whole new Demo mode, I can change 
+it and change it back later to the previous working version.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to keep versions of the SunRisa program all organized and tidy.
+
+I would like to use it to keep versions of tutorials I do to learn Java and 
+Android Studio programming for app development.
+
+I would like to write my own app from scratch for the SunRisa instead of using 
+App Inventor.
+
+

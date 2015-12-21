@@ -1,0 +1,15 @@
+Here are some notes from/for Lesson 2 of the GIT Class.
+
+Q. What happens when you initialize a repository? Why do you need to do it?
+
+A. Git creates the .git directory containing the metadata needed to keep track of files and whatnot.
+You need to do this so that git can get busy doing its thing.
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A. I guess the staging area is a place to group things together that will be committed together later. 
+I assume there is only one staging area per repository, and that you don't leave things there uncommitted
+for very long.
+
+
+

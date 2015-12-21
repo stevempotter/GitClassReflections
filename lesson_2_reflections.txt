@@ -11,5 +11,16 @@ A. I guess the staging area is a place to group things together that will be com
 I assume there is only one staging area per repository, and that you don't leave things there uncommitted
 for very long.
 
+Q. How can you use the staging area to make sure you have one commit per logical change?
+
+A. You can use diff to see how many logical changes you made. actually, I have no idea.
+
+
+Q. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A. Branches are helpful whenever a big new approach is being tried out, or the app is taking on a new role.
+For example it could be a whole different app or not.  Like when I broke out the Bluetooth debug stuff
+from my Sunrisa program. If you have a working version A, you don't want to mess it up totally in trying 
+out the new approach. So leave it alone and mess up the branched version.
 
 

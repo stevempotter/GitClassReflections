@@ -23,10 +23,12 @@ use one instead of another?
     Clones are just local copies of a repository. Or you can clone a GitHub repository onto your local machine.
     Branches are when you want to keep careful track of revision histories, and expect changes to be made by you and perhaps others.
 
-What is the benefit of having a copy of the last known state of the remote
+Q4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+  In my current level of ignorance, this only seems to add confusion. I guess it is handy if you need to work offline for a
+  while because AT&T is about to charge you $15 for an extra gigabyte of wireless data and your plan clicks over tomorrow. 
+  I would much rather just go online and look at what the state of things is on GitHub than try to figure it out based on when I last pulled or fetched or cloned or ???
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

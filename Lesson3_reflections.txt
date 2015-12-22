@@ -5,7 +5,10 @@ Steve M. Potter Dec. 2015
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+   A. Especially important if you are working on a project collaboratively. Also, if you are worried about losing a local copy
+   of your work due to theft, drive crash, or other lossage. Or if you are working on your project from a variety of computers, some
+   of which are not your own. But if you have a super-secret project that should not be leaked out into the public domain, pushing it 
+   into the cloud might be a bad idea. 
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?

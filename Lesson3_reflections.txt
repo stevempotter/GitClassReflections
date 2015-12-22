@@ -1,0 +1,4 @@
+Lesson 3 Notes and reflections
+Udacity class on Git and GutHub
+Steve M. Potter Dec. 2015
+

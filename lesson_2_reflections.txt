@@ -23,4 +23,20 @@ For example it could be a whole different app or not.  Like when I broke out the
 from my Sunrisa program. If you have a working version A, you don't want to mess it up totally in trying 
 out the new approach. So leave it alone and mess up the branched version.
 
+Q. How do the diagrams help you visualize the branch structure?
+
+A. The diagrams ARE the branch structure! Arrows pointing to parents help see what is 'reachable" and what 
+is not.
+
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A. It is a decision to make some changes more permanent by putting them in to the master branch.
+The result will be  a combination of changes made in both branches since they split.
+The diagram helps understand what the parent relationships are.
+
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A. It saves a lot of time and trouble to merge automatically. But if the tree is branchy, it could cause 
+loss of important changes. To call out the changed regions makes the manual part not so difficult.
+
 

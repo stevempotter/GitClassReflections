@@ -16,10 +16,12 @@ automatically stay up-to-date with your remote repository?
     A. Something local might get overwritten? I suppose it depends on where the most current changes are being made, locally or on 
     GitHub.
 
-Describe the differences between forks, clones, and branches.  When would you
+Q3. Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks are a respectful way to elaborate on someone else's hard work, without any chance of messing it up. 
+    Clones are just local copies of a repository. Or you can clone a GitHub repository onto your local machine.
+    Branches are when you want to keep careful track of revision histories, and expect changes to be made by you and perhaps others.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?

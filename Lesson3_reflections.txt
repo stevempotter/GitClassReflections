@@ -30,10 +30,17 @@ stored locally?
   while because AT&T is about to charge you $15 for an extra gigabyte of wireless data and your plan clicks over tomorrow. 
   I would much rather just go online and look at what the state of things is on GitHub than try to figure it out based on when I last pulled or fetched or cloned or ???
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+Q5. How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Without GitHub, I would use Google Docs. Or we could use Google Code, but that is going away.
+    Or a bunch of emails and Dropbox perhaps. Or sit in a room with my collaborators and 
+    work together perhaps even on a single machine. 
+    GitHub makes it easier to keep track of all important changes and who did what. It also keeps it clear who is in charge 
+    of merging things into the master branch. There is a lot of lingo to learn with GitHub and a zillion versions of everything 
+    in various places at various stages of usability. So one has to be much more careful than if there is a Dictator keeping the master
+    and taking all edits and merging them himself.
+    
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

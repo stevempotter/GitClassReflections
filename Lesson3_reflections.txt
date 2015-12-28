@@ -42,7 +42,11 @@ and what would be harder?
     and taking all edits and merging them himself.
     
 
-When would you want to make changes in a separate branch rather than directly in
+Q6. When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   The Master is likely being used/downloaded by lots of people and you don't want anything in there that is not well tested.
+   So all changes ought to be made in a separate branch, always. Then merged when ready.
+   If you had not realeased any version yet, and were forging ahead with a new app, then you might be working in Master. But I think
+   it would be better to immediately create a development branch with some descriptive name like v. 0.00001
+   
